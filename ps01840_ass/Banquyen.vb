@@ -24,8 +24,4 @@
     Private Sub lblGiaovien_Click(sender As Object, e As EventArgs) Handles lblGiaovien.Click
 
     End Sub
-
-    Private Sub frmBanquyen_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'Đã chỉnh sửa code'
-    End Sub
 End Class

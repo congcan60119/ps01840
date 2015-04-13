@@ -26,7 +26,3 @@ E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG D�
 E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.Resources.resources
 E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmTaikhoan.resources
 E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.vbproj.GenerateResource.Cache
-D:\ps01840\ps01840_ass\bin\Debug\ps01840_ass.exe.config
-D:\ps01840\ps01840_ass\obj\Debug\ps01840_ass.exe
-D:\ps01840\ps01840_ass\obj\Debug\ps01840_ass.xml
-D:\ps01840\ps01840_ass\obj\Debug\ps01840_ass.pdb
