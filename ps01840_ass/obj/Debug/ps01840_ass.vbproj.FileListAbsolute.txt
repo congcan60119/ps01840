@@ -1,0 +1,28 @@
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.exe.config
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmDangnhap.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.Resources.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.vbproj.GenerateResource.Cache
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.exe
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.pdb
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.xml
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmMain.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.exe
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.xml
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.pdb
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmKhachHang.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmTaikhoan.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmBanquyen.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.exe.config
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.exe
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.xml
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.pdb
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.exe
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.pdb
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\bin\Debug\ps01840_ass.xml
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmBanquyen.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmDangnhap.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmKhachHang.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmMain.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.Resources.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.frmTaikhoan.resources
+E:\ĐIỆN TOÁN ĐÁM MÂY\ASSIGNMENT\CONGDQPS01840_ASSIGNMENT_INF205\ỨNG DỤNG NGUỒN\congdqps01840_ass\ps01840_ass\ps01840_ass\obj\Debug\ps01840_ass.vbproj.GenerateResource.Cache
